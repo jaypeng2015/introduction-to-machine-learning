@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  tensorflow-serving:
+    image: 'tensorflow/serving'
+    ports:
+      - "8500:8500" # gRPC
+      - "8501:8501" # REST API
+    environment:
+      - MODEL_NAME=mnist
+    volumes:
+      - ./models:/models
