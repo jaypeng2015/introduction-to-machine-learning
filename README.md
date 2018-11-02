@@ -7,4 +7,4 @@ Still in working progress because I am still learning this all by myself..
 Currently this is mainly around:
  - The basic of Neural networks
  - The basic of TensorFlow
- - CNN
+ - Stanford courses of ML and CNN
