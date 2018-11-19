@@ -1,4 +1,4 @@
-# Introduction to Machine Learning
+# Machine Learning
 
 Notebooks and examples of how to learn machine learning step by step based on my personal experience.
 
