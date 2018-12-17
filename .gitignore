@@ -2,4 +2,6 @@
 .vscode
 MNIST/
 MNIST_data/
+MNIST-data/
 models/
+mnist_convnet_model/
